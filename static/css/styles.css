@@ -1,1 +1,15 @@
 /* things go here */
+#siteHeader {
+    display: flex;
+    justify-content: center;
+}
+
+.searchContainer {
+    display: flex;
+    justify-content: center;
+
+    label {
+        max-width: 75%;
+        width: 100%;
+    }
+}
